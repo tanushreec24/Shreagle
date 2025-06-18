@@ -22,7 +22,7 @@ const EducationContent = ({ setCurrentPage, onSearch }) => {
     {
       id: 1,
       type: "Travel",
-      date: "Sept 28 2022",
+      date: "Sept 28 2024",
       title: "Randomly booking tickets to Vellore a week before exams to attend a hackathon",
       subtitle: "Impromptu plans will never not be fun",
       sideImage: "/id1.jpg", // Side image for the event item
@@ -60,7 +60,6 @@ const EducationContent = ({ setCurrentPage, onSearch }) => {
     {
       institution: "Vellore Institute Of Technology",
       degree: "B.Tech in Electronics and Computer Engineering",
-      grade: "(CGPA)",
       duration: "2022 - 2026",
       image: "/vit.png"
     },
