@@ -14,7 +14,7 @@ It's built to showcase the projects I have finished or am working on, and a bit 
 
 ## 🎯 Features
 
-- Required Details: `Projects`, `About Me`, `Contact`
+- Required Details: `About Me`, `Projects`, `Education`, `Contact`, `Blog`
 - Dark mode because I'm not a sociopath
 - Easter eggs? Maybe.
   
