@@ -92,7 +92,7 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       id: 6,
       title: "STEMinist",
       date: "Nov 2024",
-      description: "Upcoming: After gets her feelings hurt on the internet, woman proceeds to build a full stack infrastructure to empower women in their tech journey",
+      description: "Upcoming: On a mission to build a full stack infrastructure to empower women in their tech journey",
       subtitle: "Created by a woman, for all the women who were told they couldn’t",
       icon: "🤖",
       color: "#34a853",
