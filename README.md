@@ -4,7 +4,7 @@ It's built to showcase the projects I have finished or am working on, and a bit 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **React JS** 
 - **TailwindCSS** 
@@ -12,7 +12,7 @@ It's built to showcase the projects I have finished or am working on, and a bit 
 
 ---
 
-## 🎯 Features
+##  Features
 
 - Required Details: `About Me`, `Projects`, `Education`, `Contact`, `Blog`
 - Dark mode because I'm not a sociopath
@@ -20,7 +20,7 @@ It's built to showcase the projects I have finished or am working on, and a bit 
   
 ---
 
-## 🤡 Disclaimer
+##  Disclaimer
 
 If anything looks broken, it's probably a feature.  
 If anything looks cool, I definitely meant to do that.
