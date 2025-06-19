@@ -93,7 +93,7 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       title: "STEMinist",
       date: "Nov 2024",
       description: "Upcoming: Feminist gets her feelings hurt on the internet and builds a full stack infrastructure to to empower women entering into their tech journey",
-      subtitle: "A support mechanism disguised as a web app for all the women who were told they don't belong in STEM spaces. Helping women in STEM go from 'sorry if this is stupid' to 'here's the GitHub link".,
+      subtitle: "A support mechanism disguised as a web app for all the women who were told they don't belong in STEM spaces. Helping women in STEM go from 'sorry if this is stupid' to 'here's the GitHub link",
       icon: "🤖",
       color: "#34a853",
       tags: ["Redux", "OpenAI", "FastAPI"],
