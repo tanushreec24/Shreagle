@@ -47,21 +47,19 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       tags: ["React", "ESLint", "ReactFlow"],
       fullDescription: "Mnemosyne is a Zettelkasten-inspired, graph-based note-taking application designed for nonlinear thinkers. It enables users to capture atomic notes, create semantic relationships through bidirectional links, and visualize their knowledge as an interactive graph.",
       github: "https://github.com/tanushreec24/Mnemosyne",
-      demo: "https://example.com",
       image: "/menosyne .png"
     },
     {
       id: 3,
-      title: "EduNest",
+      title: "Demand Forecasting",
       date: "Feb 2025",
-      description: "Student panic turns productive as EduNest becomes the accidental fix for studying, job hunting, and speaking anxiety",
-      subtitle: "An AI powered platform to study smarter, speak better, and maybe land a job before losing your mind",
+      description: "Bringing order to the chaos, predicting energy needs and inventory demands before they become unfixable problems",
+      subtitle: "A time series forecasting system for energy grids and eCommerce inventory using machine learning and cloud native pipelines",
       icon: "📚",
       color: "#23c853",
-      tags: ["Next.js", "OpenAI", "NLP"],
-      fullDescription: "An AI platform designed to make learning and career prep less overwhelming and more effective. It brings together smart academic learning, interactive job interview practice through real time speaking feedback using natural language processing and speech analysis. Whether you're studying for exams, prepping for placements, or just trying to sound less awkward in presentations, it's a one-stop system for building the skills school forgot to teach. Built by someone who needs it just as much.",
-      github: "https://github.com/tanushreec24/EduNest",
-      demo: "https://example.com",
+      tags: ["Python", "Docker", "GCP"],
+      fullDescription: "This demand forecasting project tackles real world forecasting for energy demand and eCommerce inventory management. From ENTSOE and OpenWeather APIs to eCommerce invoice scraping, the project builds autoregressive pipelines using SARIMA, Prophet, LSTM, and XGBoost. Deployed with GCP, Docker, and Airflow, it balances the grid and optimizes shelves by combining classical models with neural networks. The system handles walk forward cross-validation, dimensionality reduction, realtime dashboards, and deployment infrastructure with Terraform. All forecasts, zero chaos.",
+      github: "https://github.com/tanushreec24/Demand-Forecasting",
       image: "/edunest.png"
     },
     {
@@ -75,7 +73,6 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       tags: ["JavaScript", "Rasa", "Express.js"],
       fullDescription: "Melodrift is a mood-aware music and mental wellness web app designed to deliver emotional support through personalized soundscapes and conversation. Using the Spotify API and emotion tagged user input, it generates curated playlists paired with calming visual environments via the Pexels API. A custom Rasa chatbot guides users through stress relief techniques, avoiding generic advice in favor of contextual support. Real time listening rooms, powered by Socket.io, allow shared experiences and chat among users feeling the same emotion.",
       github: "https://github.com/tanushreec24/Melodrift",
-      demo: "https://example.com",
       image: "/melodrift.png"
     },
     {
@@ -89,19 +86,18 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       tags: ["Python", "Flask", "NLP"],
       fullDescription: "Built a real-time disaster response platform using Python, Flask, and NLP to process breaking news and social media chatter. Visualized crisis zones based on severity and sentiment. Used A* pathfinding to generate optimal evacuation routes on the fly, and designed a dynamic resource distribution model to prioritize high-risk areas.",
       github: "https://github.com/tanushreec24/SIH1687-Disaster-Information-Aggregation-Software",
-      demo: "https://example.com",
       image: "/siren.png"
     },
     {
       id: 6,
       title: "STEMinist",
       date: "Nov 2024",
-      description: "Upcoming: Angry feminist gets her feelings hurt on the internet and builds a full stack emotional defense system to cope",
-      subtitle: "A support mechanism disguised as a web app. Helping women in STEM go from 'sorry if this is stupid' to 'here's the GitHub link",
+      description: "Upcoming: Feminist gets her feelings hurt on the internet and builds a full stack infrastructure to to empower women entering into their tech journey",
+      subtitle: "A support mechanism disguised as a web app for all the women who were told they don't belong in STEM spaces. Helping women in STEM go from 'sorry if this is stupid' to 'here's the GitHub link".,
       icon: "🤖",
       color: "#34a853",
       tags: ["Redux", "OpenAI", "FastAPI"],
-      fullDescription: "This project is currently under active development. Stay tuned for something   that speaks louder than your male colleagues.",
+      fullDescription: "This project is currently under active development. Stay tuned for something that speaks louder than the voices that said you can’t. Potential features includes blending career growth with emotional safety, creative self-expression, and real-world collaboration.",
       github: "https://github.com/tanushreec24/STEMinist",
       demo: "https://example.com",
       image: "/fmn.png"
