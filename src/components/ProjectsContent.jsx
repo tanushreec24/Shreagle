@@ -442,10 +442,6 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
                     <Github size={16} />
                     <span>github</span>
                   </a>
-                  <a href={selectedProject.demo} target="_blank" rel="noopener noreferrer" className="project-action-btn">
-                    <ExternalLink size={16} />
-                    <span>check it out</span>
-                  </a>
                 </div>
                 
                 <div className="project-modal-description">
