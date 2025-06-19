@@ -60,7 +60,7 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       tags: ["Python", "Docker", "GCP"],
       fullDescription: "This demand forecasting project tackles real world forecasting for energy demand and eCommerce inventory management. From ENTSOE and OpenWeather APIs to eCommerce invoice scraping, the project builds autoregressive pipelines using SARIMA, Prophet, LSTM, and XGBoost. Deployed with GCP, Docker, and Airflow, it balances the grid and optimizes shelves by combining classical models with neural networks. The system handles walk forward cross-validation, dimensionality reduction, realtime dashboards, and deployment infrastructure with Terraform. All forecasts, zero chaos.",
       github: "https://github.com/tanushreec24/Demand-Forecasting",
-      image: "/edunest.png"
+      image: "/forecast.png"
     },
     {
       id: 4,
