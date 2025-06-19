@@ -93,11 +93,11 @@ const ProjectsContent = ({ setCurrentPage, onSearch }) => {
       title: "STEMinist",
       date: "Nov 2024",
       description: "Upcoming: Feminist gets her feelings hurt on the internet and builds a full stack infrastructure to empower women in their tech journey",
-      subtitle: "Created by a woman, for all the women who were told they couldn’t.",
+      subtitle: "Created by a woman, for all the women who were told they couldn’t",
       icon: "🤖",
       color: "#34a853",
       tags: ["Redux", "OpenAI", "FastAPI"],
-      fullDescription: "This project is currently under active development. Stay tuned for something that speaks louder than the voices that said you can’t. Potential features includes blending career growth with emotional safety, creative self-expression, and real-world collaboration.",
+      fullDescription: "This project is currently under active development. Stay tuned for something that speaks louder than the voices that said you can’t. Potential features include blending career growth with emotional safety, creative self expression and branding your identity, along with real-world collaboration.",
       github: "https://github.com/tanushreec24/STEMinist",
       demo: "https://example.com",
       image: "/fmn.png"
