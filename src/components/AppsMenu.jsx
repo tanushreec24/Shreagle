@@ -26,7 +26,7 @@ const AppsMenu = ({ onClose }) => {
         </svg>
       ),
       color: '#ffffff',
-      url: 'https://x.com/FlareNyx'
+      url: 'https://x.com/TanushreeC25151'
     },
     {
       name: 'Substack',
